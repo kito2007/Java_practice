@@ -11,8 +11,6 @@ public class Start {
 		
 		Info t = new Info();
 		t.t = "아마도 ";
-		System.out.println(t.t + t.set(i)+"일 것이다.");
-		
-		
+		System.out.println(t.t + t.set(i)+"일 것이다.");		
 	}
 }
